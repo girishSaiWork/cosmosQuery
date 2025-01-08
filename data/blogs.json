@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Elasticsearch Basics",
+        "author": "John Doe",
+        "content": "Elasticsearch is a search engine based on Lucene.",
+        "published_date": "2024-12-16"
+    },
+    {
+        "title": "Elastic Stack",
+        "author": "Jane Doe",
+        "content": "Elastic Stack is a collection of products that helps you to store, search, analyze, and visualize data.",
+        "published_date": "2024-12-17"
+    },
+    {
+        "title": "Kibana",
+        "author": "John Doe",
+        "content": "Kibana is a data visualization tool that is part of the Elastic Stack.",
+        "published_date": "2024-12-18"
+    }
+]
+
+
